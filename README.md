@@ -4,9 +4,9 @@
 
 A retro **Snake Game** built with an **Arduino Uno**, **MAX7219 Dot Matrix Display**, **Joystick Module**, and **Passive Buzzer** for sound effects and background music. This project brings classic arcade fun into the embedded world.
 
-![](assets/images/556106120_2698546220477014_7889736639677145087_n.jpg) 
-![](assets/images/556938373_2698546283810341_8745518204364830004_n.jpg) 
-![](assets/images/circuit_image.png)
+![](assets/556106120_2698546220477014_7889736639677145087_n.jpg) 
+![](assets/556938373_2698546283810341_8745518204364830004_n.jpg) 
+![](assets/circuit_image.png)
 ---
 
 ## ✨ Features
